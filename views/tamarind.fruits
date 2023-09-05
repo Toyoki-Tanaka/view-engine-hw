@@ -1,8 +1,0 @@
-<body>
-
-    <ul>
-        <li> Name: #name#  </li>
-        <li> Description: #description# </li>
-        <li style="color: #341515"> Color: #color# </li>
-    </ul>
-</body>

@@ -1,7 +1,0 @@
-<head>
-    #name#
-</head>
-<body>
-    <header>#description#</header>
-    <p> Color: #color# </p> 
-</body>
